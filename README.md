@@ -1,5 +1,6 @@
 ![let moreInfo = "lookDown"](https://wallpaperaccess.com/full/8351171.gif)
 ### Hi there, I'm Diana Vodopivec (❁´◡`❁)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/dianaelizabethhv)
 I'm currently learning developing bases, nice too meet you!💕 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -12,4 +13,6 @@ I'm currently learning developing bases, nice too meet you!💕
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
 
