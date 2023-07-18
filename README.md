@@ -1,6 +1,6 @@
 ![let moreInfo = "lookDown"](https://wallpaperaccess.com/full/8351171.gif)
 ### Hi there, I'm Diana Vodopivec (❁´◡`❁)
-I'm currently learning developing bases, nice too meet you! 💕 
+I'm currently learning developing bases, nice too meet you! :) 💕 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
