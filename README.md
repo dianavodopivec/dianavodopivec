@@ -1,4 +1,4 @@
-![let moreInfo = "lookDown"](https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521)
+![let moreInfo = "lookDown"](https://cdnb.artstation.com/p/assets/images/images/060/941/461/original/christopher-cline-lofi-genesis-discord.gif?1679651276)
 
 Hi there, I'm Diana Vodopivec (❁´◡`❁)
 
