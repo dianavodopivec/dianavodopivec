@@ -1,4 +1,4 @@
-![let moreInfo = "lookDown"](https://i.pinimg.com/originals/18/03/0b/18030b06cb33fcedf337bf6dc9b9473f.gif)
+![let moreInfo = "lookDown"](https://i.pinimg.com/originals/06/e2/0f/06e20fac9ae6bd96981f8da9ee81d48f.gif)
 
 Hi there, I'm Diana Vodopivec (❁´◡`❁)
 
