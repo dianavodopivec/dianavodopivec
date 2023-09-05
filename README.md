@@ -1,4 +1,4 @@
-![let moreInfo = "lookDown"](https://wallpaperaccess.com/full/8351171.gif)
+![let moreInfo = "lookDown"]([https://wallpaperaccess.com/full/8351171.gif](https://openseauserdata.com/files/324401aa18cc80c55f338dcd4674cb80.gif))
 ### Hi there, I'm Diana Vodopivec (❁´◡`❁)
 💕 I'm currently learning developing bases, nice too meet you! 💕 
 
