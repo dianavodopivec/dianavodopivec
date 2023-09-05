@@ -1,4 +1,4 @@
-![let moreInfo = "lookDown"](https://cdnb.artstation.com/p/assets/images/images/060/941/461/original/christopher-cline-lofi-genesis-discord.gif?1679651276)
+![let moreInfo = "lookDown"](https://i.pinimg.com/originals/18/03/0b/18030b06cb33fcedf337bf6dc9b9473f.gif)
 
 Hi there, I'm Diana Vodopivec (❁´◡`❁)
 
