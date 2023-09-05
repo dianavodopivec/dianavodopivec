@@ -1,4 +1,4 @@
-![let moreInfo = "lookDown"](https://media.tenor.com/TIUfh_o9hIUAAAAd/minimoss-pixel-art.gif)
+![let moreInfo = "lookDown"](https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521)
 
 Hi there, I'm Diana Vodopivec (❁´◡`❁)
 
