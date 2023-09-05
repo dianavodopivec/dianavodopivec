@@ -1,4 +1,4 @@
-![let moreInfo = "lookDown"](https://openseauserdata.com/files/324401aa18cc80c55f338dcd4674cb80.gif)
+![let moreInfo = "lookDown"](https://media.tenor.com/TIUfh_o9hIUAAAAd/minimoss-pixel-art.gif)
 
 Hi there, I'm Diana Vodopivec (❁´◡`❁)
 
