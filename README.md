@@ -2,7 +2,7 @@
 
 Hi there, I'm Diana Vodopivec (❁´◡`❁)
 
-I'm currently learning developing bases, nice too meet you! 💕
+I'm currently learning developing bases, nice too meet you!  💕
 
 
 
