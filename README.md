@@ -1,6 +1,6 @@
-![let moreInfo = "lookDown"](https://giffiles.alphacoders.com/214/214441.gif)
+![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
 
-Hi there, I'm Diana Vodopivec (❁´◡`❁)
+Hi there, I'm Diana Vodopivec.
 
 I'm currently learning developing bases, nice too meet you!  💕
 
