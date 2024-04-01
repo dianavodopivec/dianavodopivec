@@ -1,3 +1,9 @@
+<div align="center"> 
+  
+# Welcome to my profile 
+
+</div> 
+
 ![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
 
 Hi there, I'm Diana Vodopivec.
