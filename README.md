@@ -2,6 +2,12 @@
   
 # Welcome to my profile 
 
+<p>
+Hi there, I'm <strong>Diana Vodopivec</strong>.
+<br>
+Nice to meet you ✨
+</p> 
+
 </div> 
 
 ![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
@@ -18,19 +24,15 @@
 <img width="200" height="auto" align="right" src="https://media1.giphy.com/media/QWRTFvymri1XABdEFA/giphy.gif?cid=6c09b952i2k5n3lgnah895ms00mplrjvv09my15vf4me7dhs&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 </div>
+
+<br>
+
+<p>
+
+
+
+</p>
   
-Hi there, I'm Diana Vodopivec.
-
-I'm currently learning developing bases, nice too meet you!  💕
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <div align="center">
 
 # Skills
