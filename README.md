@@ -31,7 +31,6 @@ I'm currently learning developing bases, nice too meet you!  💕
 <br>
 <br>
 
-
 <div align="center">
 
 # Skills
