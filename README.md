@@ -27,7 +27,7 @@
 Hello! I'm <strong>Diana Vodopivec</strong>. An enthusiastic  <strong>Front-End developer </strong> focused on building modern and interactive websites.
 
 <ul>
-  <li>👩🏻‍💻 <em>I am enthusiastic about learning all aspects of FrontEnd development, from HTML, CSS, JavaScript, React, Gsap, Three.js and beyond</em>. </li>
+  <li>👩🏻‍💻 <em>I am enthusiastic about learning all aspects of FrontEnd development, from HTML, CSS, JavaScript, React and beyond</em>. </li>
   <li>Undefined</li>
   <li>Undefined</li>
   <li>Undefined</li>
