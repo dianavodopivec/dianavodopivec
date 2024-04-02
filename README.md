@@ -28,6 +28,8 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 </ul>
 
 </p>
+
+<br>
   
 <div align="left">
 
