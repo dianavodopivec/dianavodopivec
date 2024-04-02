@@ -11,21 +11,30 @@
 # About Me
   
 <div align="left">
-  
-Hi there, I'm Diana Vodopivec.
 
-I'm currently learning developing bases, nice too meet you!  💕
 
 </div>  
 
 <img width="200" height="auto" align="right" src="https://media1.giphy.com/media/QWRTFvymri1XABdEFA/giphy.gif?cid=6c09b952i2k5n3lgnah895ms00mplrjvv09my15vf4me7dhs&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-
 </div>
+  
+Hi there, I'm Diana Vodopivec.
 
-<div align="left">
+I'm currently learning developing bases, nice too meet you!  💕
 
-## Skills
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center">
+
+# Skills
   
 </div>
 
