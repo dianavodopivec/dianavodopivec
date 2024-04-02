@@ -2,12 +2,6 @@
   
 # Welcome to my profile 
 
-<p>
-Hi there, I'm <strong>Diana Vodopivec</strong>.
-<br>
-Nice to meet you ✨
-</p> 
-
 </div> 
 
 ![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
@@ -29,7 +23,7 @@ Nice to meet you ✨
 
 <p>
 
-
+Hello! I'm Diana. An enthusiastic FrontEnd developer focused on building modern and interactive websites.
 
 </p>
   
