@@ -6,12 +6,9 @@
 
 ![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
   
-<div align="center">
-
-# About Me
-  
 <div align="left">
 
+# About Me
 
 </div>  
 
@@ -19,15 +16,12 @@
 
 </div>
 
-<br>
-
 <p>
-
-
-Hello! I'm <strong>Diana Vodopivec</strong>. An enthusiastic  <strong>Front-End developer </strong> focused on building modern and interactive websites.
+  
+Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications.
 
 <ul>
-  <li>👩🏻‍💻 <em>I am enthusiastic about learning all aspects of FrontEnd development, from HTML, CSS, JavaScript, React and beyond</em>. </li>
+  <li>Undefined</li>
   <li>Undefined</li>
   <li>Undefined</li>
   <li>Undefined</li>
@@ -35,7 +29,7 @@ Hello! I'm <strong>Diana Vodopivec</strong>. An enthusiastic  <strong>Front-End 
 
 </p>
   
-<div align="center">
+<div align="left">
 
 # Skills
   
