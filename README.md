@@ -8,7 +8,7 @@
   
 <div align="left"> 
 
-# About Me
+## About Me
 
 </div>  
 
@@ -33,7 +33,7 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
   
 <div align="left">
 
-# Skills
+## Skills
   
 </div>
 
@@ -57,7 +57,7 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 <div>
 
-# Social Media
+## Social Media
   
 </div>
 
