@@ -6,7 +6,7 @@
 
 ![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
   
-<div align="left"> 
+<div align="left">  
 
 ## About Me
 
