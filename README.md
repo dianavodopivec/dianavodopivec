@@ -20,13 +20,6 @@
   
 Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications.
 
-<ul>
-  <li>Undefined</li>
-  <li>Undefined</li>
-  <li>Undefined</li>
-  <li>Undefined</li>
-</ul>
-
 </p>
 
 <br>
