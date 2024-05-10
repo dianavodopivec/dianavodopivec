@@ -17,17 +17,16 @@
 </div>
 
 <p>
+
+<br>
+<br>
   
 Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications.
 
 </p>
 
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+<br>
+<br>
 
 <br>
   
