@@ -27,6 +27,7 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 <br>
 <br>
+<br>
 
 <br>
   
