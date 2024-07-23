@@ -18,10 +18,6 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 </p>
 
 <br>
-<br>
-<br>
-
-<br>
   
 <div align="left">
 
