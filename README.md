@@ -1,14 +1,6 @@
 <div align="center"> 
    
 # Welcome to my profile
-
-</div>  
-
-![let moreInfo = "lookDown"](https://i.redd.it/izptoyn7i4uz.gif)
-
-<div align="left">  
-
-## About Me
  
 </div>  
 
@@ -22,6 +14,8 @@
 <br>
   
 Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications.
+
+I love creating unique and creative websites. Experienced with GSAP, Three.js, and all things animation. In my free time, I enjoy designing 3D models in Blender and Spline.
 
 </p>
 
