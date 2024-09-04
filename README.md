@@ -53,5 +53,6 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-vodopivec/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Diana-Elizabeth-Vodopivec)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dianavodopivec)
 
