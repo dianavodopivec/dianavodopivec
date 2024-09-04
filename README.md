@@ -20,12 +20,6 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 <div align="left">
 
-## Projects 
-🪐 [**Solar System**](https://the-solar-system-flame.vercel.app/)
-🕹️ [**Playground**](https://my-playground-psi.vercel.app/)
-</div>
-<div align="left">
-
 ## Skills
   
 </div>
