@@ -1,6 +1,8 @@
 <div align="center"> 
    
 # Welcome to my profile
+<br>
+From fixing people to fixing bugs
 
 </div>  
 
