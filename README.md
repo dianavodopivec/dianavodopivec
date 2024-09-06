@@ -18,7 +18,13 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 ###  Thanks for visiting my profile! ✨
 
 </p>
-<br>
+
+<div align="left">
+
+## Projects
+
+🕹️ [**Playground**](https://my-playground-psi.vercel.app/) ~ In process
+</div>
 
 <div align="left">
 
