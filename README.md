@@ -24,6 +24,7 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 ## Projects
 
 🕹️ [**Playground**](https://my-playground-psi.vercel.app/) ~ In process
+
 </div>
 
 <div align="left">
