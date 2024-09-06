@@ -19,6 +19,8 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 </p>
 
+<br>
+
 <div align="left">
 
 ## Projects
