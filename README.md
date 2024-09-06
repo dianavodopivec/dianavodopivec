@@ -2,7 +2,6 @@
    
 # Welcome to my profile
 <br>
-From fixing people to fixing bugs
 
 </div>  
 
@@ -17,6 +16,8 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 </p>
 
+<br>
+<br>
 <br>
 
 <div align="left">
