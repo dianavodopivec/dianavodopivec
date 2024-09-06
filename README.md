@@ -15,8 +15,6 @@ From fixing people to fixing bugs
   
 Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications. I bring a unique perspective to development, experienced with GSAP, Three.js, and all things animation. In my free time, I enjoy designing 3D models in Blender and Spline. 
 
-###  Thanks for visiting my profile! ✨
-
 </p>
 
 <br>
@@ -67,3 +65,4 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-vodopivec/)
 
+###  Thanks for visiting my profile! ✨
