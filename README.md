@@ -9,7 +9,7 @@
 
 </div> 
 <p>
-<br>
+<br> 
   
 Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications. I bring a unique perspective to development, experienced with GSAP, Three.js, and all things animation. I also enjoy designing 3D models in Blender and Spline. 
 
