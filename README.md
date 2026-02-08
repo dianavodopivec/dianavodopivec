@@ -11,7 +11,7 @@
 <p>
 <br> 
   
-Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic <strong>Front-End developer</strong> focused on building modern and interactive applications using <strong>JavaScript, TypeScript and React</strong>. I bring a unique perspective to development, experienced with GSAP, Three.js, and all things animation. I also enjoy designing 3D models in Blender and Spline.
+Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic <strong>Front-End developer</strong> focused on building modern and interactive applications using <strong>JavaScript, TypeScript and React</strong>. I bring a unique perspective to development, experienced with <strong>GSAP, Three.js, and all things animation</strong>. I also enjoy designing 3D models in <strong>Blender and Spline</strong>.
 
 </p>
 
