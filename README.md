@@ -5,7 +5,7 @@
 
 </div>  
 
-<img width="200" height="auto" align="right" src="https://media2.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif?cid=6c09b952m58tuyq8we0r36mtlm5wy0styezkuu1ualtyl8vv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<img width="280" height="auto" align="right" src="https://i.pinimg.com/originals/28/49/c0/2849c0d8dca2bccea74f4eac0ef366d5.gif">
 
 </div> 
 <p>
@@ -51,4 +51,13 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Diana-Elizabeth-Vodopivec)
 [![Static Badge](https://img.shields.io/badge/SPLINE-black?style=for-the-badge&logo=headspace&logoColor=%23ed51ff)](https://app.spline.design/@dianavodopivec)
 
-###  Thanks for visiting my profile! ✨
+
+<h3 align="left">
+  Thanks for visiting my profile!
+  <img 
+    src="https://media.tenor.com/f5T0gcox9LoAAAAj/cat-pixel.gif"
+    width="80"
+    style="vertical-align: middle;"
+  />
+</h3>
+
