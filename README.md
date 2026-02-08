@@ -11,12 +11,10 @@
 <p>
 <br> 
   
-Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End developer</strong> focused on building modern and interactive applications. I bring a unique perspective to development, experienced with GSAP, Three.js, and all things animation. I also enjoy designing 3D models in Blender and Spline. 
+Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic <strong>Front-End developer</strong> focused on building modern and interactive applications using <strong>JavaScript, TypeScript and React</strong>. I bring a unique perspective to development, experienced with GSAP, Three.js, and all things animation. I also enjoy designing 3D models in Blender and Spline.
 
 </p>
 
-<br>
-<br>
 <br>
 
 <div align="left">
@@ -49,7 +47,6 @@ Hello! I'm <strong>Diana Vodopivec</strong>. Enthusiastic  <strong>Front-End dev
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Diana-Elizabeth-Vodopivec)
 [![Static Badge](https://img.shields.io/badge/SPLINE-black?style=for-the-badge&logo=headspace&logoColor=%23ed51ff)](https://app.spline.design/@dianavodopivec)
-
 
 <h3 align="left">
   Thanks for visiting my profile!
